@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sajjadkhan841
-- 👀 I’m interested in coding,hacking
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on web dewvelopment
-- 📫 How to reach me 03452164897 whatsapp only
+- 👀 I’m interested in coding, hacking
+- 🌱 I’m currently learning to hack
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me 03452164897 WhatsApp only
